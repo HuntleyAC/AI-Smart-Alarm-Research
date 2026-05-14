@@ -124,3 +124,29 @@ Potential future improvements include:
 - Deep learning approaches
 - Personalized wake-up optimization
 - Integration with wearable APIs
+
+- ## Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](assets/correlation_heatmap.png)
+
+### Sleep Quality Distribution
+
+![Sleep Quality](assets/count_of_quality_of_sleep.png)
+
+### Stress Level Distribution
+
+![Stress Level](assets/count_of_stress_level.png)
+
+### Heart Rate Distribution
+
+![Heart Rate](assets/distribution_of_heart_rate.png)
+
+### Physical Activity Distribution
+
+![Physical Activity](assets/distribution_of_physical_activity_level.png)
+
+### Sleep Duration Distribution
+
+![Sleep Duration](assets/distribution_of_sleep_duration.png)
