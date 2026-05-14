@@ -18,7 +18,7 @@ The project is built to work with CSV datasets such as:
 - Sleep Efficiency Dataset
 - Smartwatch or wearable sleep tracking datasets
 
-Place a CSV file in `data/raw/`, then update the `DATA_PATH` variable in `notebooks/01_eda_sleep_analysis.ipynb`.
+Place a CSV file in `data/raw/`, then update the `DATA_PATH` variable in `sleep_quality_research.ipynb`.
 
 ## Technologies Used
 
@@ -99,7 +99,7 @@ data/raw/
 5. Open and run:
 
 ```text
-notebooks/01_eda_sleep_analysis.ipynb
+notebooks/sleep_quality_research.ipynb
 ```
 
 Graphs are saved to `outputs/graphs/`.
